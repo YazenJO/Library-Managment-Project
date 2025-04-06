@@ -1,0 +1,52 @@
+E:\C++\C++\Course No.19 - Full Real Project\Library Project\Library Project\bin\Debug\Library Project.exe.config
+E:\C++\C++\Course No.19 - Full Real Project\Library Project\Library Project\bin\Debug\Library Project.exe
+E:\C++\C++\Course No.19 - Full Real Project\Library Project\Library Project\bin\Debug\Library Project.pdb
+E:\C++\C++\Course No.19 - Full Real Project\Library Project\Library Project\bin\Debug\DevExpress.BonusSkins.v22.2.dll
+E:\C++\C++\Course No.19 - Full Real Project\Library Project\Library Project\bin\Debug\DevExpress.Data.Desktop.v22.2.dll
+E:\C++\C++\Course No.19 - Full Real Project\Library Project\Library Project\bin\Debug\DevExpress.Data.v22.2.dll
+E:\C++\C++\Course No.19 - Full Real Project\Library Project\Library Project\bin\Debug\DevExpress.Drawing.v22.2.dll
+E:\C++\C++\Course No.19 - Full Real Project\Library Project\Library Project\bin\Debug\DevExpress.Printing.v22.2.Core.dll
+E:\C++\C++\Course No.19 - Full Real Project\Library Project\Library Project\bin\Debug\DevExpress.Sparkline.v22.2.Core.dll
+E:\C++\C++\Course No.19 - Full Real Project\Library Project\Library Project\bin\Debug\DevExpress.Utils.v22.2.dll
+E:\C++\C++\Course No.19 - Full Real Project\Library Project\Library Project\bin\Debug\DevExpress.XtraBars.v22.2.dll
+E:\C++\C++\Course No.19 - Full Real Project\Library Project\Library Project\bin\Debug\DevExpress.XtraEditors.v22.2.dll
+E:\C++\C++\Course No.19 - Full Real Project\Library Project\Library Project\bin\Debug\DevExpress.Pdf.v22.2.Core.dll
+E:\C++\C++\Course No.19 - Full Real Project\Library Project\Library Project\bin\Debug\DevExpress.Pdf.v22.2.Drawing.dll
+E:\C++\C++\Course No.19 - Full Real Project\Library Project\Library Project\bin\Debug\DevExpress.Data.Desktop.v22.2.xml
+E:\C++\C++\Course No.19 - Full Real Project\Library Project\Library Project\bin\Debug\DevExpress.Data.v22.2.xml
+E:\C++\C++\Course No.19 - Full Real Project\Library Project\Library Project\bin\Debug\DevExpress.Printing.v22.2.Core.xml
+E:\C++\C++\Course No.19 - Full Real Project\Library Project\Library Project\bin\Debug\DevExpress.Utils.v22.2.xml
+E:\C++\C++\Course No.19 - Full Real Project\Library Project\Library Project\bin\Debug\DevExpress.XtraBars.v22.2.xml
+E:\C++\C++\Course No.19 - Full Real Project\Library Project\Library Project\bin\Debug\DevExpress.Sparkline.v22.2.Core.xml
+E:\C++\C++\Course No.19 - Full Real Project\Library Project\Library Project\bin\Debug\DevExpress.XtraEditors.v22.2.xml
+E:\C++\C++\Course No.19 - Full Real Project\Library Project\Library Project\bin\Debug\DevExpress.Pdf.v22.2.Core.xml
+E:\C++\C++\Course No.19 - Full Real Project\Library Project\Library Project\bin\Debug\DevExpress.Pdf.v22.2.Drawing.xml
+E:\C++\C++\Course No.19 - Full Real Project\Library Project\Library Project\obj\Debug\LibraryPresentationLayer.csproj.AssemblyReference.cache
+E:\C++\C++\Course No.19 - Full Real Project\Library Project\Library Project\obj\Debug\Library_Project.Properties.Resources.resources
+E:\C++\C++\Course No.19 - Full Real Project\Library Project\Library Project\obj\Debug\LibraryPresentationLayer.csproj.GenerateResource.cache
+E:\C++\C++\Course No.19 - Full Real Project\Library Project\Library Project\obj\Debug\LibraryPresentationLayer.csproj.CoreCompileInputs.cache
+E:\C++\C++\Course No.19 - Full Real Project\Library Project\Library Project\obj\Debug\LibraryP.EFC3F80B.Up2Date
+E:\C++\C++\Course No.19 - Full Real Project\Library Project\Library Project\obj\Debug\Library Project.exe
+E:\C++\C++\Course No.19 - Full Real Project\Library Project\Library Project\obj\Debug\Library Project.pdb
+E:\C++\C++\Course No.19 - Full Real Project\Library Project\Library Project\obj\Debug\frmLogin.LoginScreen.resources
+E:\C++\C++\Course No.19 - Full Real Project\Library Project\Library Project\bin\Debug\DevExpress.XtraNavBar.v22.2.dll
+E:\C++\C++\Course No.19 - Full Real Project\Library Project\Library Project\bin\Debug\DevExpress.XtraNavBar.v22.2.xml
+E:\C++\C++\Course No.19 - Full Real Project\Library Project\Library Project\obj\Debug\Library Project.exe.licenses
+E:\C++\C++\Course No.19 - Full Real Project\Library Project\Library Project\bin\Debug\ContactBusinessLayer.dll
+E:\C++\C++\Course No.19 - Full Real Project\Library Project\Library Project\bin\Debug\ContactsDataAccessLayer.dll
+E:\C++\C++\Course No.19 - Full Real Project\Library Project\Library Project\bin\Debug\ContactBusinessLayer.pdb
+E:\C++\C++\Course No.19 - Full Real Project\Library Project\Library Project\bin\Debug\ContactsDataAccessLayer.pdb
+E:\C++\C++\Course No.19 - Full Real Project\Library Project\Library Project\obj\Debug\Library_Project.frmMainScreen.resources
+E:\C++\C++\Course No.19 - Full Real Project\Library Project\Library Project\bin\Debug\DevExpress.XtraGrid.v22.2.dll
+E:\C++\C++\Course No.19 - Full Real Project\Library Project\Library Project\bin\Debug\DevExpress.XtraLayout.v22.2.dll
+E:\C++\C++\Course No.19 - Full Real Project\Library Project\Library Project\bin\Debug\DevExpress.XtraPrinting.v22.2.dll
+E:\C++\C++\Course No.19 - Full Real Project\Library Project\Library Project\bin\Debug\DevExpress.RichEdit.v22.2.Core.dll
+E:\C++\C++\Course No.19 - Full Real Project\Library Project\Library Project\bin\Debug\DevExpress.XtraTreeList.v22.2.dll
+E:\C++\C++\Course No.19 - Full Real Project\Library Project\Library Project\bin\Debug\DevExpress.Office.v22.2.Core.dll
+E:\C++\C++\Course No.19 - Full Real Project\Library Project\Library Project\bin\Debug\DevExpress.XtraGrid.v22.2.xml
+E:\C++\C++\Course No.19 - Full Real Project\Library Project\Library Project\bin\Debug\DevExpress.XtraLayout.v22.2.xml
+E:\C++\C++\Course No.19 - Full Real Project\Library Project\Library Project\bin\Debug\DevExpress.XtraPrinting.v22.2.xml
+E:\C++\C++\Course No.19 - Full Real Project\Library Project\Library Project\bin\Debug\DevExpress.RichEdit.v22.2.Core.xml
+E:\C++\C++\Course No.19 - Full Real Project\Library Project\Library Project\bin\Debug\DevExpress.XtraTreeList.v22.2.xml
+E:\C++\C++\Course No.19 - Full Real Project\Library Project\Library Project\bin\Debug\DevExpress.Office.v22.2.Core.xml
+E:\C++\C++\Course No.19 - Full Real Project\Library Project\Library Project\bin\Debug\Guna.UI2.dll
